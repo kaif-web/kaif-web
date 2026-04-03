@@ -1,16 +1,32 @@
-## Hi there 👋
+Passionate developer focused on building real-world solutions that create impact. I specialize in developing scalable web applications, modern UI/UX experiences, and smart business tools.
 
-<!--
-**kaif-web/kaif-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on projects like billing systems, SaaS platforms, and automation tools to simplify everyday business operations.
 
-Here are some ideas to get you started:
+I believe in learning by building, solving real problems, and continuously improving my skills with modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always exploring new ideas
+💡 Turning concepts into working products
+⚡ Focused on performance, simplicity & clean code
+
+🛠 Tech: React | TypeScript | Supabase | Node.js
+📦 Projects: Billing App, SaaS Tools, Automation Systems
+📍 Goal: Build products that people actually use
+
+💻 Tech Stack:
+C++ C C# HTML5 Java Python AWS Google Cloud Bootstrap Next JS NodeJS React Apache MySQL MicrosoftSQLServer Adobe Canva GitHub Actions Git
+
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
+
+
